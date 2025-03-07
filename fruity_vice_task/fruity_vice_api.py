@@ -6,7 +6,7 @@ class FruityViceAPI:
     def get_fruit_info(self, fruit_name):
         """
         Purpose:
-        -Use GET request tofetch fruit details from the FruityVice API.
+        -Use GET request to fetch fruit details from the FruityVice API.
 
         Parameters:
         -fruit_name (str): The name of the fruit to look up.(e.g. "apple", "banana")

@@ -9,7 +9,7 @@ def main():
 
     """
     argument_parser = argparse.ArgumentParser(description="Fetch fruit details from FruityVice API.")
-    argument_parser.add_argument("fruit_name", type=str, help="Name of the fruit (e.g., Banana, Apple)")
+    argument_parser.add_argument("fruit_name", type=str, help="Name of the fruit (e.g. Banana or Apple)")
     argument_parser.add_argument("--format", choices=["human", "machine"], default="human", help="Output format")
 
     arguments = argument_parser.parse_args()
