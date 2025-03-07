@@ -12,7 +12,7 @@ This is a command-line tool that interacts with the FruityVice API to fetch frui
 
 1. Clone the Repository:
 
-- git clone https://github.com/D-K-T-T/fruity_vice_task.git
+- git clone https://github.com/D-K-T-T/RSE-Interview-Task.git
 - cd fruity_vice_task
 
 2. Install Dependencies
